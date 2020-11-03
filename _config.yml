@@ -22,7 +22,7 @@ title: ICSE 2021 Watch Parties
 email: #your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Central point of the guidelines for ICSE 2021 watch parties and for finding a watch party for you to attend!
-baseurl: "/2021" # the subpath of your site, e.g. /blog
+baseurl: "2021" # the subpath of your site, e.g. /blog
 url: "https://icse-watch-parties.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
