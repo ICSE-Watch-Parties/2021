@@ -3,9 +3,32 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: How to plan and throw your watch party
+title: Hosting a watch party
 ---
-Here you find guidelines and tips on how to plan a watch party at your institution or group 🙂
+
+So you are an inspiring person and want to bring the SE community together for an exciting ICSE experience? We have good news, we provide you with the infrastructure to make this event known to the world. Everything else is up to you!
+
+On this page, you will find technical instructions on how to register your party and some tips and guidelines that you should consider in your planning.
+
+
+## How to announce your watch party
+
+We are maintaining a [list of all watch parties](watch-party-list.md). This list is automatically generated and you are one pull request away from adding your own party.
+
+More specifically, you would need to do the following:
+
+1. Fork this repository
+1. Duplicate the [template](watch-party-details/template-city-organization.md)  and name it reasonably (e.g. the scope of people you wish to invite, like the country)
+2. Add a link to your watch party in the [master list](../watch-party-list.md).
+3. Fill out the rest of the template :)
+1. Open a pull request with your changes. We'll look over if you provided all necessary information and then merge it in so others can learn about your watch party!
+
+
+## Deadlines
+
+Obviously, there are no strict deadlines, you can even add your watch party while the conference is ongoing. However, we would strongly suggest to give your participants a bit of time to find you and plan accordingly. The bigger the event, the more important this is.
+
+If you plan to host a larger watch party open for attendees outside your direct circle, we would like to ask you for an announce until *End of February 2021*. This announcement does not need to be complete right from the start, but it should serve as a declaration of intent.You can refine this announcement along with your ongoing planning.
 
 ## Guidelines
 Health and safety is an important topic in times of a global pandemic.
@@ -13,36 +36,23 @@ Especially large social gatherings over a longer time can be an accelerator to t
 This is why ICSE 2021 is setting guidelines that we expect every watch party to adhere to in order to keep all watch party attendees safe.
 Please make sure that your watch party will follow:
 
-### Local Regulations
-- Check rules of your municipality / government with respect to social gatherings and ensure that your event will adhere to them
+Local Regulations
+: - Check rules of your municipality / government with respect to social gatherings and ensure that your event will adhere to them
 
-### Max Number of Attendees
-- Set a maximum number of attendees that your location can host
-- Provide a contact for interested attendees to check if there are still places left
+Max Number of Attendees
+: - Set a maximum number of attendees that your location can host
+  - Provide a contact for interested attendees to check if there are still places left
 
-### Registration of Attendees
-- Every attendee of a watch party should register beforehand
-- Every attendee should also be a registered attendee of the ICSE 2021 conference
+Registration of Attendees
+: - Every attendee of a watch party should register beforehand
+  - Every attendee should also be a registered attendee of the ICSE 2021 conference
 
-### Central Contact
-- Every watch party should identify a contact person for questions from the ICSE 2021 organizers and the watch party attendees
+Central Contact
+: - Every watch party should identify a contact person for questions from the ICSE 2021 organizers and the watch party attendees
 
 <!-- ## Points to consider outside of the announcement template
 - do you need any support staff for the watch party? -->
 
-## Deadlines
-If you plan to host a larger watch party open for attendees outside your direct circle, please announce it with at least partial information until **End of February 2021**.
-This way potential attendees still have time to find your watch party and plan their conference week accordingly 🙂
-
-## How to announce your watch party
-Fill out the template to put your watch party on the list:
-[Template to add YOUR watch party](watch-party-details/template-city-organization.md) 
-
-1. Fork this repository
-1. Duplicate the [template](watch-party-details/template-city-organization.md)  and name it reasonably (e.g. the scope of people you wish to invite, like the country)
-2. Add a link to your watch party in the [master list](../watch-party-list.md).
-3. Fill out the rest of the template :)
-1. Open a pull request with your changes. We'll look over if you provided all necessary information and then merge it in so others can learn about your watch party!
 
 ## Questions
 For any questions about the watch party concept you can contact Carolin Brandt at [c.e.brandt@tudelft.nl](mailto:c.e.brandt@tudelft.nl?subject=[ICSE2021WatchParty]%20Question%20about%20the%20ICSE2021%20Watch%20Party%20Guidellines).
