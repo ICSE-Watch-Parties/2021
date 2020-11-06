@@ -10,7 +10,7 @@ You don't need to accept any additional/external visitors to advertise your part
 
 To add your announcement:
 1. Fork this repository.
-1. Duplicate the [announcement template](_watch_party_anouncements/Template%20Continent/Example%20Country/template-city-organization.html) and give it a name describing your party.
+1. Duplicate the [announcement template](_watch_party_announcements/Template%20Continent/Example%20Country/template-city-organization.md) and give it a name describing your party.
 1. Put it in the correct continent / country folder. Please add new ones if necessary! We use the folder structure to order the list of watch parties.
 1. Fill your template with all the information you have. It does not have to be complete, even a simple "Intent to throw a watch party" is enough 🙃
 1. Open a pull request back to the repository! If you want to add anything to your announcement (more detailed planning, note that no new attendees can register) send us another pull request!

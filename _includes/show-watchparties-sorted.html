@@ -44,7 +44,7 @@
       {% assign escaped_url = announcement.url | url_decode %}
         {% if escaped_url contains continent and escaped_url contains country %}
 <li>
-<a href="{{ announcement.url }}">{{ announcement.title }}</a>
+<a href="{{ announcement.url | absolute_url }}">{{ announcement.title }}</a>
 <p>Open for registrations: {{announcement.open_for_registrations}}<br>
 City: {{announcement.city}}</p>
 </li>

@@ -6,6 +6,6 @@ layout: page
 title: Watch Parties
 ---
 
-Add yours by copying & filling out the [template](watch-party-details/template-city-organization.md)!
+Add yours by opening a pull request on the [GitHub repository](https://github.com/ICSE-Watch-Parties/2021)!
 
 {% include show-watchparties-sorted.html %}
