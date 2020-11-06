@@ -1,12 +1,9 @@
 ---
-# This is the front matter: the variables in here we will use to sort your watch party announcement into the master list
+# This is the front matter: the variables in here we will use as additional information for your watch party announcement in the master list
 # Please fill these out as good as you can :)
 
-continent: Europe
-country: Netherlands
 city: Delft
 open_for_registrations: No
-
 title: Anna's Living Room ICSE Party
 
 # you can leave the options below as they are

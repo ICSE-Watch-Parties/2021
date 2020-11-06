@@ -1,12 +1,9 @@
 ---
-# This is the front matter: the variables in here we will use to sort your watch party announcement into the master list
+# This is the front matter: the variables in here we will use as additional information for your watch party announcement in the master list
 # Please fill these out as good as you can :)
 
-continent: South America
-country: Peru
 city: Lima
 open_for_registrations: Yes
-
 title: Awesome ICSE 2021 Watch Party @ Fictional University --- Template
 
 # you can leave the options below as they are

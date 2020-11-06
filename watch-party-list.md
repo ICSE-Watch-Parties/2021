@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Watch Parties
+title: Planned Watch Parties
 ---
 
 Add yours by opening a pull request on the [GitHub repository](https://github.com/ICSE-Watch-Parties/2021)!
