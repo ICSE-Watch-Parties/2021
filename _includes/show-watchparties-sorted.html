@@ -1,0 +1,81 @@
+
+{% assign continents = "" | split: '/'%}
+{% assign countries = "" | split: '/'%}
+
+{% for page in site.watch_party_announcements %}
+  {% assign page_cats = page.url | url_decode | split:'/' %}
+  {% assign watch_party_file_name = page_cats | last %}
+  {% assign important_cat_url = page.url | url_decode | remove: "/watch_party_announcements/" | remove: watch_party_file_name %}
+
+  {% assign country = important_cat_url | split:'/' | last %}
+  {% assign country_slug = important_cat_url | split:'/' | join: "/" %}
+  {% if country == nil %}
+    {% continue %}
+  {% else %}
+    {% unless countries contains country_slug %}
+    {% assign countries = countries | push: country_slug %}
+    {% endunless %}
+  {% endif %}
+
+  {% assign continent = important_cat_url | remove: country | split:'/' | last %}
+  {% assign continent = continent | strip %}
+
+  {% unless continent == nil %}
+    {% unless continents contains continent %}
+      {% assign continents = continents | push: continent %}
+    {% endunless %}
+  {% endunless %}
+{% endfor %}
+
+<!-- {{countries}} -->
+<!-- {{continents}} -->
+
+<!-- {{countries | size}}
+{{continents | size}} -->
+
+{% for continent in continents %}
+<h2>{{continent}}</h2>
+  {% for country in countries %}
+    {% if country contains continent %}
+      {% assign country_name = country | split:'/' | last %}
+<h3>{{country_name}}</h3>
+<ul>
+      {% for announcement in site.watch_party_announcements %}
+      {% assign escaped_url = announcement.url | url_decode %}
+        {% if escaped_url contains continent and escaped_url contains country %}
+<li>
+<a href="{{ announcement.url }}">{{ announcement.title }}</a>
+<p>Open for registrations: {{announcement.open_for_registrations}}<br>
+City: {{announcement.city}}</p>
+</li>
+        {% endif %}
+      {% endfor %}
+</ul>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+<!-- {%   for node in site.watch_party_announcements %}
+{%     if node.url == '/' %}
+{{       continue }}
+{%     else %}
+{%       assign split_path = node.url | split: "/" %}
+{%       assign party_file_name = split_path | last %}
+{{       party_file_name}}
+{%       assign city = node.url | remove: party_file_name | split: '/' | last %}
+{{       city}}
+{%       assign continent = node.url | remove: city | remove: party_file_name | split: '/' | last %}
+{{       continent}}
+{%       assign node_url = node.url %}
+{%       for slug in split_path offset:1 %}
+{%         assign slug = slug %}
+{%         assign slug_depth = forloop.index %}
+{%       endfor %}
+{%       if slug_depth == page_depth and page_parent == node_parent %}
+<li><a href="{{ node_url }}">{{ slug }}</a></li>
+{%       endif %}
+{%       if slug_depth == 1 and page.url == '/' and slug != 'search.json' and   slug != 'sitemap.xml' %}
+<li><a href="{{ node_url }}">{{{slug}}</a></li>
+{%       endif %}
+{%     endif %}
+{%   endfor %} -->

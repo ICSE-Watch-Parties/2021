@@ -13,15 +13,9 @@ On this page, you will find technical instructions on how to register your party
 
 ## How to announce your watch party
 
-We are maintaining a [list of all watch parties](watch-party-list.md). This list is automatically generated and you are one pull request away from adding your own party.
+We are maintaining a [list of all watch parties](watch-party-list.html). This list is automatically generated and you are one pull request away from adding your own party!
 
-More specifically, you would need to do the following:
-
-1. Fork this repository
-1. Duplicate the [template](watch-party-details/template-city-organization.md)  and name it reasonably (e.g. the scope of people you wish to invite, like the country)
-2. Add a link to your watch party in the [master list](../watch-party-list.md).
-3. Fill out the rest of the template :)
-1. Open a pull request with your changes. We'll look over if you provided all necessary information and then merge it in so others can learn about your watch party!
+Go to the [GitHub repository of this website](https://github.com/ICSE-Watch-Parties/2021) and follow the instructions in the readme 😉
 
 
 ## Deadlines

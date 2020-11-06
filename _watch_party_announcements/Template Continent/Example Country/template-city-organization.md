@@ -13,7 +13,7 @@ title: Awesome ICSE 2021 Watch Party @ Fictional University --- Template
 layout: page
 ---
 Hey guys! We're planning a watch party at the audimax of fictional university. Come and join us for the fun!
-
+{{page.url}}
 ## Location
 Where will your watch party be?
 Country, City, Address, Building,...
