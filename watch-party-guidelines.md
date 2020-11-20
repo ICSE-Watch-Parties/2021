@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Hosting a watch party
+title: "Hosting a watch party: Guidelines"
 ---
 
 So you are an inspiring person and want to bring the SE community together for an exciting ICSE experience? We have good news, we provide you with the infrastructure to make this event known to the world. Everything else is up to you!
@@ -31,18 +31,30 @@ This is why ICSE 2021 is setting guidelines that we expect every watch party to 
 Please make sure that your watch party will follow:
 
 Local Regulations
-: - Check rules of your municipality / government with respect to social gatherings and ensure that your event will adhere to them
+: - Check rules of your municipality / government with respect to social gatherings and ensure that your event will adhere to them.
 
 Max Number of Attendees
-: - Set a maximum number of attendees that your location can host
-  - Provide a contact for interested attendees to check if there are still places left
+: - Set a maximum number of attendees that your location can likely host.
+  - Describe how you select the attendees eligible to join your watch party, including cancellations in case the maximum number of allowed attendees drops.
+  - Provide a contact for interested attendees to check if there are still places left.
 
 Registration of Attendees
-: - Every attendee of a watch party should register beforehand
-  - Every attendee should also be a registered attendee of the ICSE 2021 conference
+: - Every attendee of a watch party should register for the watch party beforehand.
+  - Every attendee should also be a registered attendee of the ICSE 2021 conference.
+  - You can request a registration / participation fee from your participants to share the costs associated with hosting the watch party.
+
+Conference Days / Time Bands
+: - Plan which days of the conference and which of the available time bands your watch party will cover.
+
+Social Events
+: - We encourage you to plan local social events in addition to the virtual ICSE events. Please make sure you're local events don't compete with the virtual ones. We want to give everyone around the world the chance to meet each other!
+  - Encourage your participants to join the virtual social events and offer them facilities to join virtual events on their own during your watch party.
 
 Central Contact
-: - Every watch party should identify a contact person for questions from the ICSE 2021 organizers and the watch party attendees
+: - Every watch party should identify a contact person for questions from the ICSE 2021 organizers and the watch party attendees.
+
+Updating your Announcement
+: - Please update your announcements right away in case of any changes to your watch party.
 
 <!-- ## Points to consider outside of the announcement template
 - do you need any support staff for the watch party? -->
