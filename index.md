@@ -9,7 +9,7 @@ We've heard from many people: following virtual conferences is really straining.
 To bring conversation, discussion and interaction back into the online conference world, ICSE 2021 is introducing:
 
 ## Watch Parties
-At a ICSE 2021 watch party, you come together with fellow attendees, be it colleagues from your group, your university, your city or your whole country, to join ICSE 2021 together.
+At an ICSE 2021 watch party, you come together with fellow attendees, be it colleagues from your group, your university, your city or your whole country, to join ICSE 2021 together.
 Parties can be as small as two or three people in your living room or as big fifty people filling a whole cinema theater in these physical distancing times.
 You'll follow the sessions together, discuss the talks and papers, brainstorm over new ideas and create new connections and collaborations 🙂
 Watch parties give us a place for social events and true face-to-face interaction with the software engineering researchers close to you – no need to travel half over the world.
