@@ -53,6 +53,10 @@ We will follow all the health and safety measures in accordance with Dutch gover
 
 For more information on the coronavirus measures at the university, checkout the special [TU Delft corona webpage]{:target="_blank"}.
 
+## Cancellation policy
+
+Due to the current health situation, we may have to scale down our event. In the worst-case scenario, we may have to cancel the event. We are optimistic that it will not be necessary, but we will keep you updated.
+
 ## How to Get Involved 👷‍♀️👷‍♂️
 
 Organizing a watch party can be a lot of work.
