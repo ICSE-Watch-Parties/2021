@@ -35,16 +35,20 @@ Local Regulations
 
 Max Number of Attendees
 : - Set a maximum number of attendees that your location can likely host.
-  - Describe how you select the attendees eligible to join your watch party, including cancellations in case the maximum number of allowed attendees drops.
+  - Your watch party can be open for anyone to register, or closed, meaning participants have to be invited.
+  - If your watch party is open for registrations, describe how you select the attendees eligible to join your watch party, including cancellations in case the maximum number of allowed attendees drops.
   - Provide a contact for interested attendees to check if there are still places left.
 
 Registration of Attendees
 : - Every attendee of a watch party should register for the watch party beforehand.
   - Every attendee should also be a registered attendee of the ICSE 2021 conference.
-  - You can request a registration / participation fee from your participants to share the costs associated with hosting the watch party.
+  - To share the costs associated with hosting the watch party, you can request a participation reimbursement from your participants.
 
-Conference Days / Time Bands
-: - Plan which days of the conference and which of the available time bands your watch party will cover.
+Cancellation Policy
+: - Clearly describe your cancellation policy in case the watch party needs to be (partially) cancelled. Address what happens e.g. with already paid participation reimbursements.
+
+Conference Days / Sessions
+: - Plan which days of the conference and which of the available sessions your watch party will cover.
 
 Social Events
 : - We encourage you to plan local social events in addition to the virtual ICSE events. Please make sure you're local events don't compete with the virtual ones. We want to give everyone around the world the chance to meet each other!
@@ -55,6 +59,7 @@ Central Contact
 
 Updating your Announcement
 : - Please update your announcements right away in case of any changes to your watch party.
+  - Plan for uncertainty. If possible, describe your plans in case you have to downscale the party or are able to upscale it.
 
 <!-- ## Points to consider outside of the announcement template
 - do you need any support staff for the watch party? -->
