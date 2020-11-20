@@ -15,7 +15,7 @@ On this page, you will find technical instructions on how to register your party
 
 We are maintaining a [list of all watch parties](watch-party-list.html). This list is automatically generated and you are one pull request away from adding your own party!
 
-Go to the [GitHub repository of this website](https://github.com/ICSE-Watch-Parties/2021){:target="_top"} and follow the instructions in the readme 😉
+Go to the [GitHub repository of this website](https://github.com/ICSE-Watch-Parties/2021){:target="_blank"} and follow the instructions in the readme 😉
 
 
 ## Deadlines

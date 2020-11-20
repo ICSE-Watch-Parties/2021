@@ -6,6 +6,6 @@ layout: page
 title: Planned Watch Parties
 ---
 
-Add yours by opening a pull request on the [GitHub repository](https://github.com/ICSE-Watch-Parties/2021){:target="_top"}!
+Add yours by opening a pull request on the [GitHub repository](https://github.com/ICSE-Watch-Parties/2021){:target="_blank"}!
 
 {% include show-watchparties-sorted.html %}
